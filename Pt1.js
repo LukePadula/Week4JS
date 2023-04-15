@@ -49,6 +49,5 @@ _bungalow.buildingName = "Apple Cottage";
 // console.log(_bungalow.numOfRooms);
 
 console.log(_bungalow.bungalowDescription);
-// console.log(hse);
 
 console.log(_bungalow.addressDescription);
